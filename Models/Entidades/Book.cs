@@ -23,5 +23,12 @@ namespace Models.Entidades
         
         [ForeignKey("idCategory")]
         public Category Category { get; set; }
+        // lista de autores a ese libro
+        public List<AuthorBook> AuthorBooks { get; set; }
+        // relacion 1 a 1
+        public OfertPrice OfertPrice { get; set; }
+        
+        // un libro puede tener varios reviews
+        public List<Review> Reviews { get; set; }
     }
 }

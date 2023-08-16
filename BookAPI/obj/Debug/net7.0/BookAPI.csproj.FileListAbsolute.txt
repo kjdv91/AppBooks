@@ -73,3 +73,8 @@ E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\obj\Debug\net7.0\refint\BookA
 E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\obj\Debug\net7.0\BookAPI.pdb
 E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\obj\Debug\net7.0\BookAPI.genruntimeconfig.cache
 E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\obj\Debug\net7.0\ref\BookAPI.dll
+E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\bin\Debug\net7.0\Humanizer.dll
+E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\PracticasProgrmación\courseC#\AppBooks\BookAPI\bin\Debug\net7.0\System.CodeDom.dll

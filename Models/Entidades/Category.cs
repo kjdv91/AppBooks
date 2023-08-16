@@ -17,5 +17,7 @@ namespace Models.Entidades
         [Column("idCategory")]
         public int Id { get; set; }
         public string categoryName { get; set; }
+        // lista de libros
+        public List<Book> ListaBooks { get; set; }
     }
 }
