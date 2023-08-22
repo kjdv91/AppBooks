@@ -75,3 +75,9 @@ ALTER TABLE  AuthorBook
  ALTER TABLE  AuthorBook 
  ADD CONSTRAINT Fk_AuthorBook_Book FOREIGN KEY (idBook)
  REFERENCES Books (idBook) ON DELETE CASCADE;
+
+-- unions
+select b.title from Books as b where b.price >=20
+union all
+select b2.title from Books as b2 
+where YEAR(b2.publishDate) > 2020;
